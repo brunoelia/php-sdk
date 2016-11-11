@@ -1,4 +1,4 @@
-# MercadoLibre's PHP SDK
+# MercadoLibre's PHP SDK v1.0
 
 This is the official PHP SDK for MercadoLibre's Platform.
 
